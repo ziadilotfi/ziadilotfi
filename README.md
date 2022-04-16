@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm L1GEND</h1>
-<h3 align="center">A passionate Full Stack Web developer from Algeria</h3>
+<h3 align="center">Self Taught Full Stack Web developer from Algeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ziadilotfi&label=Profile%20views&color=0e75b6&style=flat" alt="ziadilotfi" /> </p>
 
-- 🌱 I’m currently learning **Django , Figma**
+- 🌱 I’m currently learning **WebFlow**
 
-- 📫 How to reach me **https://www.l1gend.ml/**
+- 📫 How to reach me **https://www.l1gend.ga/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
